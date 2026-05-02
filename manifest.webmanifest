@@ -1,0 +1,21 @@
+{
+    "name": "Layer 0",
+    "short_name": "Layer 0",
+    "description": "Physical Privilege Escalation - Operator-Community für Physical Red Teaming, Covert Entry und Sperrtechnik. Mittelhessen (Marburg / Frankfurt).",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#0B0C10",
+    "theme_color": "#0B0C10",
+    "lang": "de-DE",
+    "dir": "ltr",
+    "categories": ["security", "education", "community"],
+    "icons": [
+        {
+            "src": "/assets/layer0.png",
+            "sizes": "any",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}

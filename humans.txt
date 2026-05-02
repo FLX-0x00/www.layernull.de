@@ -1,0 +1,30 @@
+/* TEAM */
+    Founder: Paul Werther (FLX)
+    Contact: flx [at] evait.de
+    GitHub:  https://github.com/FLX-0x00
+    From:    Mittelhessen, Germany
+
+/* COMMUNITY */
+    Name:    Layer 0
+    Claim:   Physical Privilege Escalation
+    Region:  Marburg / Frankfurt am Main
+    Domain:  Physical Red Teaming, Covert Entry, Sperrtechnik, RFID/OSDP
+
+/* SPONSOR */
+    Initiative of: evait security GmbH
+    URL:           https://www.evait.de
+
+/* SITE */
+    Last update:   2026-05-02
+    Language:      Deutsch
+    Doctype:       HTML5
+    IDE:           VS Code
+    Standards:     HTML5, CSS3 (Tailwind), Vanilla JS
+
+                                # # #
+              _                          ___
+             | |    __ _ _   _  ___ _ __( _ )
+             | |   / _` | | | |/ _ \ '__/ _ \
+             | |__| (_| | |_| |  __/ | | (_) |
+             |_____\__,_|\__, |\___|_|  \___/
+                         |___/

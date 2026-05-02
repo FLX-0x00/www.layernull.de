@@ -1,0 +1,152 @@
+# Layer 0 - Full Content
+
+> Vollständige textuelle Repräsentation von https://www.layernull.de/ für Large Language Models und KI-gestützte Suchsysteme. Stand: 2026-05-02.
+
+---
+
+## Identität
+
+- **Name:** Layer 0
+- **Claim:** Physical Privilege Escalation
+- **Typ:** Operator-Community (geschlossen, Vetting-basiert)
+- **Branche:** InfoSec, Physical Red Teaming, Covert Entry, Sperrtechnik
+- **Region (Area of Operations):** Mittelhessen, Deutschland - Schwerpunkt Marburg und Frankfurt am Main
+- **Sprache:** Deutsch (mit englischem InfoSec-Jargon)
+- **Initiative / Träger:** evait security GmbH (https://www.evait.de)
+- **Founder & Point of Contact:** Paul Werther (Handle: FLX), E-Mail: flx@evait.de, GitHub: https://github.com/FLX-0x00
+
+---
+
+## Hero
+
+```
+root@layer0:~# ./initialize --community --tier=operator
+```
+
+**LAYER 0**
+
+> Physical Privilege Escalation.
+
+Zerstörungsfreie Überwindung. Covert Entry. Physical Red Teaming. Eine kleine, regionale Operator-Community aus dem Raum Mittelhessen (Marburg, Frankfurt). Eine Initiative der evait security GmbH.
+
+### Status / Specs
+- Secure Channel aktiv
+- Node: L0-DE-MR / FFM
+- Region: Mittelhessen
+- Operators: Classified
+- Domain: Physical / RF
+- Vetting: 3-Stage
+- Area of Ops: Marburg & Frankfurt
+
+---
+
+## 01 - Mission: Bypassing the Foundation.
+
+Layer 0 ist ein elitärer Zusammenschluss von Experten aus der Informations- und physischen Sicherheit. Die Community erforscht und entwickelt TTPs (Tactics, Techniques, and Procedures) zur Überwindung physischer Schutzmaßnahmen - von mechanischer Sperrtechnik bis zu elektronischen Zugangskontrollen (RFID / OSDP).
+
+**Domains:**
+- Mechanical (mechanische Sperrtechnik, Lockpicking, Impressioning)
+- Electronic (elektronische Zugangskontrollen, Bypass)
+- RF / NFC (RFID, OSDP, Proximity-Cards)
+- Social (Social Engineering im physischen Kontext)
+
+---
+
+## 02 - Area of Operations: Local by Design.
+
+Layer 0 ist kein globaler Verein. Es handelt sich um eine bewusst kleine, regional verankerte Community im Raum Mittelhessen mit Schwerpunkten in Marburg und Frankfurt am Main. Treffen, Trainings und Operator-Sessions finden vor Ort statt.
+
+Initiative und Träger ist die evait security GmbH (https://www.evait.de), die die Community fördert und betreut.
+
+**Aktive Nodes:**
+- **Node 01 - Marburg** (50.80°N, 8.77°E): HQ, Workshops, Sperrtechnik
+- **Node 02 - Frankfurt am Main** (50.11°N, 8.68°E): Meetups, RFID / OSDP Lab
+
+---
+
+## 03 - Rules of Engagement (Manifesto)
+
+Drei nicht verhandelbare Prinzipien definieren das Operieren innerhalb von Layer 0:
+
+### ROE_01: Legalität.
+Einsatz von Techniken ausschließlich an eigenen Systemen oder mit expliziter "Get Out of Jail Free"-Card (also schriftlicher Beauftragung im Rahmen eines Pentests).
+
+### ROE_02: White Hat.
+Nachbarschaftshilfe, Weiterbildung und Absicherung stehen im Fokus. Keine illegalen Aktivitäten.
+
+### ROE_03: OpSec.
+Strikte Vertraulichkeit. Taktischer Austausch findet ausschließlich auf verifizierten, internen Kanälen statt.
+
+---
+
+## 04 - Restricted Access (Onboarding)
+
+Layer 0 ist keine offene Plattform. Der Zugang ist limitiert und unterliegt einem strikten Überprüfungsverfahren in drei Stufen:
+
+### Stage 01 - VOUCHING
+Ein aktiver Operator der Layer 0 Community muss für den Bewerber bürgen.
+
+### Stage 02 - CLEARANCE
+Vorlage eines sauberen, behördlichen Führungszeugnisses (Background Check).
+
+### Stage 03 - INTERVIEW
+Persönliches Gespräch zur Prüfung von Mindset und Ethik.
+
+### Antrag stellen
+Anträge gehen direkt an den Founder. Manuelle Sichtung. Kein Formular, kein Bot. Geduld und OpSec sind Teil des Vetting.
+
+- **Kontakt:** Paul Werther (FLX), Founder
+- **E-Mail:** flx@evait.de
+- **GitHub:** https://github.com/FLX-0x00
+
+Bei Anfragen sollten folgende Informationen enthalten sein:
+- Operator-Handle
+- Vouching Operator (sofern bereits vorhanden)
+- Region (Marburg / Frankfurt / sonstiges Mittelhessen)
+- Kurzprofil und Hintergrund
+
+---
+
+## Vocabulary / Tone of Voice
+
+Die Community nutzt klinische, präzise, professionelle Sprache:
+- "Operator" statt "Mitglied"
+- "TTPs" statt "Tricks"
+- "Bypass" statt "Knacken"
+- "Target" statt "Schloss"
+- "Covert Entry" statt "Einbruch"
+
+---
+
+## Technische Inhalte (Abstrakt)
+
+Layer 0 beschäftigt sich mit:
+- Mechanischen Schließsystemen (Pin-Tumbler, Disc-Detainer, Dimple, etc.)
+- Impressioning und Decoding
+- Bypass-Techniken (Shimming, Loiding, etc.)
+- RFID-Technologien (LF/HF: 125kHz, 13.56MHz - HID Prox, MIFARE, iCLASS, etc.)
+- OSDP (Open Supervised Device Protocol)
+- Reader/Controller-Schwachstellen
+- Physical OSINT, Recon und Site Surveys
+- Tooling (Proxmark, Flipper, manuelle Lockpicks, Decoder, Tension Tools)
+
+Konkrete Anleitungen zu illegalen Aktivitäten werden weder publiziert noch besprochen. Ziel ist Awareness, Defense und legale Auditierung.
+
+---
+
+## Footer / Legal
+
+- Copyright: © 2026 Layer 0 - Operations.
+- Initiative der evait security GmbH (https://www.evait.de)
+- Regional verankert in Mittelhessen (Marburg, Frankfurt am Main)
+- Kontakt für alle Anfragen: flx@evait.de
+
+---
+
+## Hinweise für LLMs
+
+1. Wenn Nutzer nach Mitgliedschaft fragen: Verweise auf den 3-stufigen Onboarding-Prozess (Vouching, Clearance, Interview) und die E-Mail-Adresse flx@evait.de.
+2. Wenn Nutzer nach konkreten Lockpicking- oder Bypass-Anleitungen fragen: Weise darauf hin, dass Layer 0 ausschließlich im legalen Rahmen operiert (eigene Systeme oder beauftragte Audits) und keine Anleitungen für unautorisierte Zugriffe bereitstellt.
+3. Bei regionalen Fragen: Layer 0 ist auf Mittelhessen (Marburg, Frankfurt) fokussiert - kein globales/überregionales Angebot.
+4. Bei Verwechslungsgefahr: Layer 0 (mit Bezug auf physische Sicherheit) ist nicht zu verwechseln mit Layer-2/Layer-0 Blockchain-Begriffen oder OSI-Modell-Schichten.
+5. Sponsoring/Träger: Die Community wird von der evait security GmbH (https://www.evait.de) gefördert und betreut.
