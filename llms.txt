@@ -4,6 +4,8 @@
 
 Layer 0 ist keine offene Plattform. Der Zugang ist limitiert und unterliegt einem strikten 3-stufigen Vetting-Verfahren: Vouching durch einen aktiven Operator, behördliches Führungszeugnis (Background Check) und persönliches Interview. Die Community arbeitet ausschließlich im legalen Rahmen (eigene Systeme oder explizite Beauftragung) und steht für White-Hat-Werte sowie strikte OpSec.
 
+Es gibt zwei Tiers: Operator (voll gevettet, alle Kanäle, Vor-Ort-Treffen) und Recruit (Einstiegsstufe für Einsteiger, standortunabhängig möglich). Für beide Tiers gilt das Vetting - Zugang nur nach Empfehlung und Prüfung. Recruits erhalten eingeschränkten Zugriff (kuratierte Ressourcen, Beginner- und Ask/Help-Kanäle mit direktem Draht zu Operatoren), aber keinen Zugang zu internen Operator-Kanälen und keine regulären Vor-Ort-Treffen; einzelne Recruits werden fallweise auf Einladung dazugeholt. Ein Aufstieg Recruit -> Operator ist möglich.
+
 ## Brand
 - Name: Layer 0
 - Claim: Physical Privilege Escalation

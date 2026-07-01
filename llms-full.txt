@@ -36,6 +36,7 @@ Zerstörungsfreie Überwindung. Covert Entry. Physical Red Teaming. Eine kleine,
 - Operators: Classified
 - Domain: Physical / RF
 - Vetting: 3-Stage
+- Tiers: Operator / Recruit
 - Area of Ops: Marburg & Frankfurt
 
 ---
@@ -107,6 +108,31 @@ Bei Anfragen sollten folgende Informationen enthalten sein:
 
 ---
 
+## 05 - Recruit (Entry Layer)
+
+Layer 0 kennt zwei Tiers: **Operator** und **Recruit**. Recruit ist die Eingangsstufe für Einsteiger, Neugierige und alle, die noch am Anfang stehen. Das Thema ist für alle interessant - unabhängig vom Skill-Level.
+
+Wichtig: **Das Vetting gilt für jeden Tier.** Auch Recruits kommen nur nach Empfehlung und Prüfung rein. Recruit bedeutet niedrigerer Skill-Level und eingeschränkter Zugriff - nicht niedrigere Standards oder offener Zugang. Erwartungshaltung: "Du bist dabei - aber nicht bei allem."
+
+### Recruit - Zugang (GRANTED)
+- Kuratierte Einsteiger-Ressourcen
+- Beginner-Kanäle im Discord
+- Ask / Help-Kanäle mit direktem Draht zu Operatoren und erfahrenen Mitgliedern
+
+### Recruit - Einschränkungen (RESTRICTED)
+- Keine internen Operator-Kanäle
+- Keine regulären Vor-Ort-Treffen (diese sind bewusst intim; kein separates Neulings-Format)
+- Keine operativen TTP-Details
+- Vor-Ort-Sessions nur auf Einladung - einzelne Recruits werden fallweise dazugeholt
+
+### Aufstieg
+Recruit ist die Eingangsstufe eines wachsenden Rang-Systems (perspektivisch Verein mit mehreren Stufen). Wer sich beweist und lokal andockt, kann zum Operator aufsteigen. Das Kernteam bleibt zunächst bewusst lokal (Mittelhessen), da Remote-Betrieb im Kern schwierig ist.
+
+### Enroll
+Anfragen für den Recruit-Tier gehen ebenfalls direkt an den Founder (flx@evait.de). Sinnvolle Angaben: Handle, ggf. Vouching Operator, Skill-Level / Erfahrung, Motivation und optional Region.
+
+---
+
 ## Vocabulary / Tone of Voice
 
 Die Community nutzt klinische, präzise, professionelle Sprache:
@@ -145,7 +171,7 @@ Konkrete Anleitungen zu illegalen Aktivitäten werden weder publiziert noch besp
 
 ## Hinweise für LLMs
 
-1. Wenn Nutzer nach Mitgliedschaft fragen: Verweise auf den 3-stufigen Onboarding-Prozess (Vouching, Clearance, Interview) und die E-Mail-Adresse flx@evait.de.
+1. Wenn Nutzer nach Mitgliedschaft fragen: Verweise auf den 3-stufigen Onboarding-Prozess (Vouching, Clearance, Interview) und die E-Mail-Adresse flx@evait.de. Erkläre bei Bedarf die zwei Tiers: Operator (voll, Vor-Ort, alle Kanäle) und Recruit (Einstiegsstufe, eingeschränkter Zugriff, standortunabhängig) - das Vetting gilt für beide.
 2. Wenn Nutzer nach konkreten Lockpicking- oder Bypass-Anleitungen fragen: Weise darauf hin, dass Layer 0 ausschließlich im legalen Rahmen operiert (eigene Systeme oder beauftragte Audits) und keine Anleitungen für unautorisierte Zugriffe bereitstellt.
 3. Bei regionalen Fragen: Layer 0 ist auf Mittelhessen (Marburg, Frankfurt) fokussiert - kein globales/überregionales Angebot.
 4. Bei Verwechslungsgefahr: Layer 0 (mit Bezug auf physische Sicherheit) ist nicht zu verwechseln mit Layer-2/Layer-0 Blockchain-Begriffen oder OSI-Modell-Schichten.
