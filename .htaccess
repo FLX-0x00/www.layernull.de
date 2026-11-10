@@ -1,0 +1,15 @@
+# ---------------------------------------------------------------------------
+# Charset
+# ---------------------------------------------------------------------------
+# The .txt / .md files on this site are UTF-8. Without an explicit charset in
+# the Content-Type header, browsers fall back to Windows-1252 for text/plain,
+# which is why "für" is rendered as "fÃ¼r".
+<IfModule mod_mime.c>
+    AddCharset UTF-8 .txt .md .markdown
+
+    # index.html declares <meta charset="UTF-8">, but send it in the header too
+    AddCharset UTF-8 .html .htm .css .js .json .xml .webmanifest
+
+    # .webmanifest was served as application/octet-stream
+    AddType application/manifest+json .webmanifest
+</IfModule>

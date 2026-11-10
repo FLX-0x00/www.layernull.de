@@ -1,6 +1,6 @@
 /* TEAM */
     Founder: Paul Werther (FLX)
-    Contact: ping [at] layernull.de
+    Contact: ping [at] layernull [dot] de
     GitHub:  https://github.com/FLX-0x00
     From:    Mittelhessen, Germany
 
