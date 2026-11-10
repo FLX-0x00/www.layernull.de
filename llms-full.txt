@@ -1,4 +1,4 @@
-# Layer 0 - Full Content
+﻿# Layer 0 - Full Content
 
 > Vollständige textuelle Repräsentation von https://www.layernull.de/ für Large Language Models und KI-gestützte Suchsysteme. Stand: 2026-07-01.
 
