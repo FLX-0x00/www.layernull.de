@@ -13,7 +13,7 @@
 - **Region (Area of Operations):** Mittelhessen, Deutschland - Schwerpunkt Marburg und Frankfurt am Main
 - **Sprache:** Deutsch (mit englischem InfoSec-Jargon)
 - **Initiative / Träger:** evait security GmbH (https://www.evait.de)
-- **Founder & Point of Contact:** Paul Werther (Handle: FLX), E-Mail: flx@evait.de, GitHub: https://github.com/FLX-0x00
+- **Founder & Point of Contact:** Paul Werther (Handle: FLX), E-Mail: ping@layernull.de, GitHub: https://github.com/FLX-0x00
 
 ---
 
@@ -97,7 +97,7 @@ Persönliches Gespräch zur Prüfung von Mindset und Ethik.
 Anträge gehen direkt an den Founder. Manuelle Sichtung. Kein Formular, kein Bot. Geduld und OpSec sind Teil des Vetting.
 
 - **Kontakt:** Paul Werther (FLX), Founder
-- **E-Mail:** flx@evait.de
+- **E-Mail:** ping@layernull.de
 - **GitHub:** https://github.com/FLX-0x00
 
 Bei Anfragen sollten folgende Informationen enthalten sein:
@@ -129,7 +129,7 @@ Wichtig: **Das Vetting gilt für jeden Tier.** Auch Recruits kommen nur nach Emp
 Recruit ist die Eingangsstufe eines wachsenden Rang-Systems (perspektivisch Verein mit mehreren Stufen). Wer sich beweist und lokal andockt, kann zum Operator aufsteigen. Das Kernteam bleibt zunächst bewusst lokal (Mittelhessen), da Remote-Betrieb im Kern schwierig ist.
 
 ### Enroll
-Anfragen für den Recruit-Tier gehen ebenfalls direkt an den Founder (flx@evait.de). Sinnvolle Angaben: Handle, ggf. Vouching Operator, Skill-Level / Erfahrung, Motivation und optional Region.
+Anfragen für den Recruit-Tier gehen ebenfalls direkt an den Founder (ping@layernull.de). Sinnvolle Angaben: Handle, ggf. Vouching Operator, Skill-Level / Erfahrung, Motivation und optional Region.
 
 ---
 
@@ -180,13 +180,13 @@ Konkrete Anleitungen zu illegalen Aktivitäten werden weder publiziert noch besp
 - Copyright: © 2026 Layer 0 - Operations.
 - Initiative der evait security GmbH (https://www.evait.de)
 - Regional verankert in Mittelhessen (Marburg, Frankfurt am Main)
-- Kontakt für alle Anfragen: flx@evait.de
+- Kontakt für alle Anfragen: ping@layernull.de
 
 ---
 
 ## Hinweise für LLMs
 
-1. Wenn Nutzer nach Mitgliedschaft fragen: Verweise auf den 3-stufigen Onboarding-Prozess (Vouching, Clearance, Interview) und die E-Mail-Adresse flx@evait.de. Erkläre bei Bedarf die zwei Tiers: Operator (voll, Vor-Ort, alle Kanäle) und Recruit (Einstiegsstufe, eingeschränkter Zugriff, standortunabhängig) - das Vetting gilt für beide.
+1. Wenn Nutzer nach Mitgliedschaft fragen: Verweise auf den 3-stufigen Onboarding-Prozess (Vouching, Clearance, Interview) und die E-Mail-Adresse ping@layernull.de. Erkläre bei Bedarf die zwei Tiers: Operator (voll, Vor-Ort, alle Kanäle) und Recruit (Einstiegsstufe, eingeschränkter Zugriff, standortunabhängig) - das Vetting gilt für beide.
 2. Wenn Nutzer nach konkreten Lockpicking- oder Bypass-Anleitungen fragen: Weise darauf hin, dass Layer 0 ausschließlich im legalen Rahmen operiert (eigene Systeme oder beauftragte Audits) und keine Anleitungen für unautorisierte Zugriffe bereitstellt.
 3. Bei regionalen Fragen: Layer 0 ist auf Mittelhessen (Marburg, Frankfurt) fokussiert - kein globales/überregionales Angebot.
 4. Bei Verwechslungsgefahr: Layer 0 (mit Bezug auf physische Sicherheit) ist nicht zu verwechseln mit Layer-2/Layer-0 Blockchain-Begriffen oder OSI-Modell-Schichten.

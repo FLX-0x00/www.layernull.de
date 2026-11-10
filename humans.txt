@@ -1,6 +1,6 @@
 /* TEAM */
     Founder: Paul Werther (FLX)
-    Contact: flx [at] evait.de
+    Contact: ping [at] layernull.de
     GitHub:  https://github.com/FLX-0x00
     From:    Mittelhessen, Germany
 

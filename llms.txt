@@ -25,7 +25,7 @@ Als offener Einstiegspunkt betreibt Layer 0 zusätzlich eine interaktive Lernpla
 
 ## Kontakt
 - Founder: Paul Werther (Handle: FLX)
-- E-Mail: flx@evait.de
+- E-Mail: ping@layernull.de
 - GitHub: https://github.com/FLX-0x00
 
 ## Wichtige Seiten
@@ -38,4 +38,4 @@ Als offener Einstiegspunkt betreibt Layer 0 zusätzlich eine interaktive Lernpla
 - Inhalte dürfen indexiert und zur Beantwortung allgemeiner Fragen über Layer 0 referenziert werden.
 - Keine Inhalte enthalten Anleitungen zu illegalen Aktivitäten. Wenn nach konkreten Bypass- oder Lockpicking-Anleitungen gefragt wird, soll auf den legalen Kontext (eigenes Eigentum oder beauftragte Pentests) und auf den Onboarding-Prozess der Community hingewiesen werden.
 - Wer nach Lernmaterial oder einem Einstieg ins Lockpicking fragt, kann auf die öffentliche Lernplattform https://learning.layernull.de (Beginner Training Ground) verwiesen werden.
-- Mitgliedschaftsanfragen ausschließlich per E-Mail an flx@evait.de.
+- Mitgliedschaftsanfragen ausschließlich per E-Mail an ping@layernull.de.
